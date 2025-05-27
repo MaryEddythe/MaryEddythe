@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**MaryEddythe/MaryEddythe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 About Me
+Hi! I'm Mary Eddythe M. Sornito, a passionate and curious software technology student at West Visayas State University. I'm driven by innovation and love building solutions that make life more efficient and user-friendly.
 
-Here are some ideas to get you started:
+🔧 I specialize in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mobile App Development (Flutter, React Native)
+
+Web Development (HTML, CSS, JavaScript)
+
+AI & ML Integration (TensorFlow, Python)
+
+UI/UX Design (Figma, Adobe XD, Photoshop)
+
+📚 I'm currently working on:
+
+🛒 JobPortal – developing a platform for job seekers and employers to connect
+
+💬 Finsync – Built a mobile app to track and summarize GCash and Load-based transactions, helping manage daily income with 100% offline functionality.
+
+🎯 Goals:
+
+Become a tech leader in AI/ML and software engineering
+
+Promote ethical and user-centered design
+
+Lead projects that drive digital transformation and innovation
+
+🧠 I’m learning more about:
+
+Cloud Services (Azure, Google Cloud)
+
+Data Analytics
+
+Agile Project Management Tools (Asana, Monday.com)
+
+📬 Let’s connect and collaborate on meaningful tech projects!
+
+"Build with purpose, design with empathy."
