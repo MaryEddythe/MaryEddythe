@@ -1,4 +1,4 @@
-## Hi Hi! I'm Mary Eddythe 👋
+## Hi! I'm Mary Eddythe 👋
 
 Hi! I'm Mary Eddythe M. Sornito, a passionate and curious software technology student at West Visayas State University. <br>
 I'm driven by innovation and love building solutions that make life more efficient and user-friendly.<br>
