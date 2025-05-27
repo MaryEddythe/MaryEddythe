@@ -1,26 +1,7 @@
-## Hi there 👋
+## Hi Hi! I'm Mary Eddythe 👋
 
-Hi! I'm Mary Eddythe M. Sornito, a passionate and curious software technology student at West Visayas State University. I'm driven by innovation and love building solutions that make life more efficient and user-friendly.
-
-🔧 I specialize in:
-Mobile App Development (Flutter/Dart)
-Web Development (HTML, CSS, JavaScript)
-AI & ML Integration (TensorFlow, Python)
-UI/UX Design (Figma, Adobe XD, Photoshop)
-
-🎯 Goals:
-Become a tech leader in AI/ML and software engineering
-Promote ethical and user-centered design
-Lead projects that drive digital transformation and innovation
-
-🧠 I’m learning more about:
-Cloud Services (Azure, Google Cloud)
-Data Analytics
-Agile Project Management Tools (Asana, Monday.com)
-
-📬 Let’s connect and collaborate on meaningful tech projects!
-"Build with purpose, design with empathy."
-
+Hi! I'm Mary Eddythe M. Sornito, a passionate and curious software technology student at West Visayas State University. <br>
+I'm driven by innovation and love building solutions that make life more efficient and user-friendly.<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/eddytheangel.sornito) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mary-eddythe-sornito-508870236/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sornito.maryeddythe@gmail.com) 
